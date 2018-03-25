@@ -64,4 +64,6 @@ git add -A
 git commit -m '日志信息'
 # 显示 git 日志
 git log
+# 显示 stage 状态
+git status
 ```
