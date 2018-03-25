@@ -67,3 +67,5 @@ git log
 # 显示 stage 状态
 git status
 ```
+
+## vscode
